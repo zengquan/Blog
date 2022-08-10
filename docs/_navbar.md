@@ -4,7 +4,7 @@
 * linux
     * [使用systemctl服务管理](/linux/使用systemctl服务管理.md)
 * SpringBoot
-    * [springboot jpa多数据源使用](/springboot/springboot jpa多数据源使用.md)
+    * [springboot jpa多数据源使用](/springboot/SpringBootJpa多数据源使用.md)
 * JavaScript
     * [基础](/javascript/base.md)
     * [This](/javascript/this.md)
