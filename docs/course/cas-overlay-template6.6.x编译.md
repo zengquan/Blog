@@ -45,4 +45,4 @@ server.ssl.enabled=true
 
 8. 访问`https://localhost:8443/cas/login` 输入默认账号/密码`actuator/Mellon`进行登录
 
-9. 访问`https://cas.panda.com:8443/cas/logout` 进行登出
+9. 访问`https://localhost:8443/cas/logout` 进行登出
